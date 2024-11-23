@@ -1,4 +1,4 @@
-![cover](cover.png)
+
 
 # 🤖 Blum Auto Clicker
 
@@ -13,6 +13,4 @@ A Free Blum Auto Clicker Bot Built With JavaScript
 - Copy the code from the `script.js` file found in this repository, paste it into the console, and press `Enter`.
 - Start the game by clicking "Play" and enjoy the automation!
 
-You can also watch the following video for more detailed instructions.
 
-[![Watch on YouTube](video.jpg)](https://youtu.be/JDcBGUSqMVM)
