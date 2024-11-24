@@ -1,3 +1,15 @@
+// ==UserScript==
+// @name         Blum Autoclicker
+// @version      2.2
+// @namespace    Violentmonkey Scripts
+// @author       mudachyo
+// @match        https://telegram.blum.codes/*
+// @grant        none
+// @icon         https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
+// @downloadURL  https://github.com/sitezz7/blum-auto-clicker/blob/main/script.js
+// @updateURL    https://github.com/sitezz7/blum-auto-clicker/blob/main/script.js
+// @homepage     https://github.com/sitezz7
+// ==/UserScript==
 (() => {
 
   if (window.BlumAC) return;
